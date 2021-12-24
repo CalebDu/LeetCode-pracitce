@@ -2,7 +2,9 @@
 #include <vector>
 #include <queue>
 #include <utility>
-using std::vector, std::pair, std::queue;
+using std::vector;
+using std::pair;
+using std::queue;
 
 class Solution
 {
